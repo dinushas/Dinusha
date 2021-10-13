@@ -3,7 +3,7 @@ Test 01
 
  
 
-1.      a) We need to check whether all the values are displayed properly for base currency and target currency with respect to the database.
+1. a) We need to check whether all the values are displayed properly for base currency and target currency with respect to the database.
 
  
 
